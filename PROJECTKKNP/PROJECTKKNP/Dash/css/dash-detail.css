@@ -1,0 +1,22 @@
+﻿.detail-container {
+    background-color: #ffffff; /* Background color white */
+    padding: 20px;
+}
+
+.detail-card {
+    border: 1px solid #ddd; /* Light border for each card */
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.detail-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.detail-col {
+    flex: 1;
+    padding: 5px;
+}
